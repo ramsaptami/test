@@ -1,0 +1,13 @@
+{
+  "name": "math_random",
+  "uidString": "math_random_https://cdn.jsdelivr.net/npm/math-random@2.0.1/+esm",
+  "accessor": [
+    "math_random"
+  ],
+  "url": "https://cdn.jsdelivr.net/npm/math-random@2.0.1/+esm",
+  "version": "2.0.1",
+  "defs": "{\"!name\":\"LIB/math_random\",\"math_random\":{\"!type\":\"fn()\",\"prototype\":{}}}",
+  "deleted": false,
+  "policies": [],
+  "userPermissions": []
+}

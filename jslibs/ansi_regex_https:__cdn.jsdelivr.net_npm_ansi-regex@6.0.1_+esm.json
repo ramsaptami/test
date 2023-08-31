@@ -1,0 +1,13 @@
+{
+  "name": "ansi_regex",
+  "uidString": "ansi_regex_https://cdn.jsdelivr.net/npm/ansi-regex@6.0.1/+esm",
+  "accessor": [
+    "ansi_regex"
+  ],
+  "url": "https://cdn.jsdelivr.net/npm/ansi-regex@6.0.1/+esm",
+  "version": "6.0.1",
+  "defs": "{\"!name\":\"LIB/ansi_regex\",\"ansi_regex\":{\"!type\":\"fn()\",\"prototype\":{}}}",
+  "deleted": false,
+  "policies": [],
+  "userPermissions": []
+}
